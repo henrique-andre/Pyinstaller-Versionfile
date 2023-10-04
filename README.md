@@ -19,7 +19,7 @@ pyinstaller-versionfile fornece alguns parâmetros para adicionar ao executável
 ## Como usar
 pyinstaller-versionfile fornece uma interface funcional para criar , siga esses passos:
 
-1º Em seu editor de código Visual Studio ou Picharm crie um arquivo python com o nome `"versionfile.py"` ou o nome que desejar
+1º Em seu editor de código Visual Studio ou PyCharm crie um arquivo python com o nome `"versionfile.py"` ou o nome que desejar
 
 2° Abra o terminal no editor de código e importe a biblioteca em sua máquina ou ambiente virtual:
 
